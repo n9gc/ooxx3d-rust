@@ -1,0 +1,6 @@
+[workspace]
+members = [
+	"n9gc_ooxx",
+	"n9gc_ooxx3d",
+]
+resolver = "2"
